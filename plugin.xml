@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="com.phonegap.plugins.childbrowser2013122501"
+    id="com.phonegap.plugins.childbrowser2013122502"
     version="4.2.1">
 
-    <name>Child Browser2013122501</name>
+    <name>Child Browser2013122502</name>
 
     <description>
         Provides lightweight browser window for viewing pages external to the host application,
